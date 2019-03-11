@@ -41,10 +41,10 @@ $(function(){
               // $(".loader").addclass("hidden");
               $("#popUp").show()
               // $("#popUp").removeClass("loader hidden");
-              $("#popUp").addClass("loader").then(function(){
+              // $("#popUp").addClass("loader").then(function(){
                 
-                $("#popUp").removeClass("loader")
-              });
+              //   $("#popUp").removeClass("loader")
+              // });
               
              
 
